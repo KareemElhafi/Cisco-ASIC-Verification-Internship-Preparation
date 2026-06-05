@@ -31,8 +31,7 @@ https://drive.google.com/drive/folders/1aLwCLZj0YG9KJhln1D60_nWM7p-L3q9a
 - Crack the VLSI Interview
 - Top 50 ASIC Interview Questions
 - Cracking Digital VLSI Verification Interview
-
-https://drive.google.com/file/d/1V4VMfR5YwJIupepoKzDE3wLKP45KBr1Q/view?usp=sharing
+        https://drive.google.com/file/d/1V4VMfR5YwJIupepoKzDE3wLKP45KBr1Q/view?usp=sharing
 
 ---
 
