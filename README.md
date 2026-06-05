@@ -71,7 +71,7 @@ Cisco-ASIC-Verification-Internship-Preparation
 ├── 06-Timing-Basics
 │   └── README.md
 │
-├── 07-Interview-Questions
+├── 07-General
    └── README.md
 ```
 
