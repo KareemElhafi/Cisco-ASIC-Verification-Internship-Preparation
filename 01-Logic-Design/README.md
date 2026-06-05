@@ -53,5 +53,9 @@ https://www.sanfoundry.com/digital-circuits-questions-answers/
 ### ASIC World
 
 https://www.asic-world.com/digital/index.html
+
+### Chip Verify
+
+https://chipverify.com/tutorials/digital-fundamentals
 ---
 
