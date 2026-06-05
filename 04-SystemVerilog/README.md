@@ -58,6 +58,10 @@ https://www.chipverify.com/
 ### ASIC World
 
 https://www.asic-world.com/systemverilog/index.html
+
+### VLSI Verify
+
+https://vlsiverify.com/systemverilog/
 ---
 
 ## Interview Focus
