@@ -24,6 +24,9 @@ https://verificationguide.com/category/uvm/
 
 https://www.chipverify.com/
 
+### VLSI Verify
+
+https://vlsiverify.com/uvm/
 ---
 
 ## Recommended Scope
