@@ -41,6 +41,7 @@ Focus on:
 
 https://nandland.com/
 
+### Verilog Quizzes _ Eng. Yusuf Sherif
 ---
 
 ## Important Topics for Interviews
